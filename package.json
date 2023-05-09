@@ -1,0 +1,14 @@
+{
+	"name": "stremio-addon-VizerTV",
+	"version": "0.0.1",
+	"description": "",
+	"scripts": {
+		"start": "node server.js"
+	},
+	"dependencies": {
+		"axios": "^1.4.0",
+		"cheerio": "^1.0.0-rc.12",
+		"jsdom": "^22.0.0",
+		"stremio-addon-sdk": "1.1.x"
+	}
+}
